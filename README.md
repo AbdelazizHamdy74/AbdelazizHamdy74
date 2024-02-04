@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>🌱 I’m currently learning MERN Stack<br>👯 I’m looking to collaborate on <br>💬 Ask me about Open Source contribution<br>📫 How to reach me: abdelazizhamdy74@gmail.com
+🔭 I’m currently working on...... <br>🌱 I’m currently learning MERN Stack<br>👯 I’m looking to collaborate on...... <br>💬 Ask me about Open Source contribution<br>📫 How to reach me: abdelazizhamdy74@gmail.com
 
 
 ## 🌐 Socials:
