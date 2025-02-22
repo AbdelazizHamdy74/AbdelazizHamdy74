@@ -1,4 +1,5 @@
-💫 About Me:
+💫 About Me: <br>
+Hi, I am Abdelaziz 👓 💻 <br>
 🔭 Back-end developer specializing in Node.js with extensive experience in designing and developing robust, scalable systems. Passionate about collaborating with cross-functional teams to deliver tailored solutions that meet business needs. Dedicated to building high-performance, secure, and scalable applications with a focus on efficiency and quality. <br>💬 Ask me about Open Source contribution<br>📫 How to reach me: abdelazizhamdy74@gmail.com | WhatsApp: +20 109 465 8115
 
 
