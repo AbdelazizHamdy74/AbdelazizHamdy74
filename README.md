@@ -1,6 +1,6 @@
 💫 About Me: <br>
 Hi, I’m Abdelaziz 👨‍💻 <br>
-MEAN Stack Developer (MongoDB, Express.js, Angular, Node.js) with hands-on experience in building full-stack web applications. I specialize in developing scalable, secure, and high-performance solutions, from RESTful APIs to dynamic frontends. Passionate about clean code, collaborative teamwork, and solving real-world problems through technology.
+MEAN Stack Developer (MongoDB, MySQL, Express.js, Angular, Node.js) with hands-on experience in building full-stack web applications. I specialize in developing scalable, secure, and high-performance solutions, from RESTful APIs to dynamic frontends. Passionate about clean code, collaborative teamwork, and solving real-world problems through technology.
 Currently focused on enhancing my skills in cloud services and real-time apps.
 <br>💬 Ask me about Open Source contributions & scalable system architecture
 <br>📫 How to reach me: abdelazizhamdy74@gmail.com | WhatsApp: +20 109 465 8115
