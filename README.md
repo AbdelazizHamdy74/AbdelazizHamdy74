@@ -1,7 +1,9 @@
 💫 About Me: <br>
-Hi, I am Abdelaziz 👓 💻 <br>
-Back-end Developer specialized in Node.js with extensive experience in designing and developing robust, scalable systems. Passionate about collaborating with cross-functional teams to deliver tailored solutions that meet business needs. Currently expanding expertise in Angular to become a full MEAN Stack Developer. Dedicated to building high-performance, secure, and scalable applications with a focus on efficiency and quality. <br>💬 Ask me about Open Source contribution<br>📫 How to reach me: abdelazizhamdy74@gmail.com | WhatsApp: +20 109 465 8115
-
+Hi, I’m Abdelaziz 👨‍💻 <br>
+MEAN Stack Developer (MongoDB, Express.js, Angular, Node.js) with hands-on experience in building full-stack web applications. I specialize in developing scalable, secure, and high-performance solutions, from RESTful APIs to dynamic frontends. Passionate about clean code, collaborative teamwork, and solving real-world problems through technology.
+Currently focused on enhancing my skills in cloud services and real-time apps.
+<br>💬 Ask me about Open Source contributions & scalable system architecture
+<br>📫 How to reach me: abdelazizhamdy74@gmail.com | WhatsApp: +20 109 465 8115
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelaziz-hamdy)
