@@ -1,25 +1,109 @@
-💫 About Me: <br>
-Hi, I’m Abdelaziz 👨‍💻 <br>
-MEAN Stack Developer (MongoDB, MySQL, Express.js, Angular, Node.js) with hands-on experience in building full-stack web applications. I specialize in developing scalable, secure, and high-performance solutions, from RESTful APIs to dynamic frontends. Passionate about clean code, collaborative teamwork, and solving real-world problems through technology.
-Currently focused on enhancing my skills in cloud services and real-time apps.
-<br>💬 Ask me about Open Source contributions & scalable system architecture
-<br>📫 How to reach me: abdelazizhamdy74@gmail.com | WhatsApp: +20 109 465 8115
+# 🚀 Full-Stack Engineer | Microservices Architect | 4+ Years Experience
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelaziz-hamdy)
-<!-- [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Abdelaziz-Hamdy) -->
+Scalable Systems • Event-Driven Architecture • High-Performance Backend Engineering
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbdelazizHamdy74&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdelazizHamdy74&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelazizHamdy74&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!--### ✍️ Random Dev Quote-->
-<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
+I build production-ready Full-Stack applications and distributed Microservices platforms using modern JavaScript technologies.  
+Experienced in designing scalable architectures, implementing event-driven systems with Apache Kafka, and delivering secure, maintainable backend solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbdelazizHamdy74&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Professional Profile
+
+- 4+ years of software development experience  
+- Strong Full-Stack MEAN expertise  
+- Architect & implement Event-Driven Microservices  
+- Design Monolithic & Distributed Systems  
+- Performance optimization & clean architecture advocate  
+- Production-ready Dockerized environments  
+
+---
+
+## 🏗 Core Architecture Expertise
+
+✔ Monolithic Applications  
+✔ Event-Driven Microservices  
+✔ Apache Kafka Integration  
+✔ API Gateway Pattern  
+✔ Service-to-Service Communication  
+✔ Distributed Systems Design  
+✔ Real-Time Systems  
+
+---
+
+## 🏆 Featured Microservices Projects
+
+### 🔹 Event-Driven-Microservices-Platform  
+A scalable social-style platform built with microservices architecture using Kafka as the event broker.  
+Includes User, Post, Notification, Chat, Comment, Like, and Friendship services.
+
+### 🔹 Event-Driven-Microservices-Ecommerce  
+Distributed e-commerce system with separated services (User, Product, Order, Payment, Cart) using event-driven communication and API Gateway pattern.
+
+### 🔹 Event-Driven-Microservices-CSM  
+Customer Service Management platform using microservices for modular domain separation and scalable backend handling.
+
+### 🔹 Event-Driven-Microservices-EA  
+Enterprise Architecture-based system demonstrating domain-driven design concepts with distributed services.
+
+---
+
+## 💻 Technology Stack
+
+### 🖥 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### 🌐 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+---
+
+## 📊 GitHub Performance
+
+![](https://github-readme-stats.vercel.app/api?username=AbdelazizHamdy74&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdelazizHamdy74&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelazizHamdy74&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Engineering Philosophy
+
+- Design before code  
+- Scalability is not optional  
+- Clean architecture over quick hacks  
+- Production-ready mindset  
+
+---
+
+## 📫 Contact
+
+📧 abdelazizhamdy74@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/abdelaziz-hamdy  
+📱 WhatsApp: +20 109 465 8115  
+
+---
+
+> Engineering scalable distributed systems with clarity, performance, and reliability.
